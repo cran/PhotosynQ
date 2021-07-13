@@ -1,0 +1,17 @@
+e83756682b640e428fdd5902a2476067 *DESCRIPTION
+571b17db3d5c338b2a54399b03b21901 *LICENCE
+9a8e853b065e1feba982184dbc9d8e64 *NAMESPACE
+78837d8321bb934c23eded09bfd38a8f *R/createDataframe.R
+ee67745159653b186008632681d0a8e7 *R/getProject.R
+c22d13a73fcf3e44fa93b8aba0710d26 *R/getProjectData.R
+7ab68f7e23d0e4f6a5b055253dccdf8e *R/getProjectInfo.R
+855100db7d8f707de32acad7fdca03db *R/globals.R
+cb0d580d54c4f2a87bfb31d576efbdf3 *R/login.R
+134898a963f2294bce440824bbe00f16 *R/logout.R
+ffcea0f04fdda903e3d057d6f6d962c0 *README.md
+e9a740099a6d0aa6c118344e1098d29f *man/createDataframe.Rd
+72a0ddd9773ae9494bfdc4a32e145b18 *man/getProject.Rd
+0b1b044525b07e871c3ff2a8c74f7ef3 *man/getProjectData.Rd
+f4dff5f781d7287cce3274c09979f846 *man/getProjectInfo.Rd
+bd1af4a7a28a500d573d5f19168ad63c *man/login.Rd
+0d1017377dc872e494c69a44501466e5 *man/logout.Rd
